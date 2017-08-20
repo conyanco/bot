@@ -20,7 +20,7 @@ var http = require('http');
 // var apiai = require("../module/apiai");
 var apiai = require("apiai");
 
-var app = apiai("YOUR_ACCESS_TOKEN");
+var app = apiai("a558192b4a614b079e4fb86afb610e47");
 
 var code = 405;
 
