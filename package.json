@@ -2,7 +2,7 @@
   "name": "apiai-line-bot",
   "version": "1.0.0",
   "description": "API.AI Line Bot",
-  "main": "main.js",
+  "main": "app.js",
   "scripts": {
     "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
