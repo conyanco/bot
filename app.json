@@ -12,7 +12,7 @@
     "APIAI_LANG": {
       "description": "Agent language",
       "value": "ja",
-      "required": false
+      "required": ture
     },
     "LINE_CHANNEL_ID": {
       "description": "1526018111",
