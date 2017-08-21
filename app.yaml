@@ -1,0 +1,10 @@
+# Change the env values according to your API.AI and Line dashboard
+
+runtime: nodejs
+env: flex
+env_variables:
+  APIAI_ACCESS_TOKEN: 'a558192b4a614b079e4fb86afb610e47'
+  APIAI_LANG: 'ja'
+  LINE_CHANNEL_ID: '1526018111'
+  LINE_CHANNEL_SECRET: '0e800d7e13bf93ff8a59f783aa70949c'
+  LINE_CHANNEL_ACCESS_TOKEN: '+O9PZhDDNsc1w33rE7/U949xa8I7P9uxUShSGR9LFbABjQrYKo3p+xffPlfDfQu/AjIddjC9DtzyYXiA62fCBgF9ElS0gw4i8tK8E3F9RaspQGrcuSYMati25NRNxMOArqUBvqh6mFWj/Jul/9CPbQdB04t89/1O/w1cDnyilFU='
