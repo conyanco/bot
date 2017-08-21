@@ -2,12 +2,12 @@
   "name": "apiai-line-bot",
   "version": "1.0.0",
   "description": "API.AI Line Bot",
-  "main": "src/app.js",
+  "main": "main.js",
   "scripts": {
     "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Danil Skachkov <danil.skachkov@speaktoit.com> (https://api.ai)",
+  "author": "",
   "license": "Apache-2.0",
   "dependencies": {
     "apiai": "^4.0.3",

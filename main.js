@@ -1,8 +1,8 @@
  apiai = require('apiai');
 
-var app = apiai("<your client access token>");
+var app = apiai("a558192b4a614b079e4fb86afb610e47");
 
-var request = app.textRequest('<Your text query>', {
+var request = app.textRequest('weather', {
     sessionId: '<unique session id>'
 });
 
